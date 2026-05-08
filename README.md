@@ -1,50 +1,43 @@
 # Dubai Mall Interactive Sales Deck
 
-A cinematic browser-based sales deck for the **Senior Frontend Engineer & AI-Powered Interactive Design** assignment.
+An immersive cinematic sales deck experience built for the Senior Frontend Engineer & AI-Powered Interactive Design screening assignment.
 
-## Concept
-This project is not a normal website. It is an interactive sales tool for Dubai Mall that helps a sales team pitch leasing, sponsorship, and event opportunities through a premium, video-first, non-linear experience.
+## Overview
+
+This project presents Dubai Mall as a global retail, entertainment, sponsorship, and event destination through a premium interactive browser-based presentation deck experience.
+
+The experience is designed to feel closer to a luxury interactive sales presentation than a traditional website, combining cinematic storytelling, motion design, modern UI/UX, and expandable modular architecture.
+
+## Features
+
+* Cinematic fullscreen storytelling
+* Interactive non-linear navigation
+* Luxury-inspired UI/UX
+* Motion animations and hover interactions
+* Responsive layout
+* Expandable presentation-deck architecture
+* AI-assisted visual generation workflow
 
 ## Tech Stack
-- React + Vite
-- Framer Motion
-- Lucide React
-- Custom CSS
-- Deployable on Vercel / Netlify / GitHub Pages
 
-## Key Features
-- Cinematic full-screen opening
-- Non-linear floating navigation
-- Scroll-based transitions
-- Premium luxury UI direction
-- Interactive statistics cards
-- Modular sections for retail, luxury, dining, entertainment, events, and sponsorship
-- Expandable architecture for deeper modules
-- Responsive desktop/tablet layout
+* React
+* Vite
+* Framer Motion
+* Modern CSS
 
-## Data / Research Notes
-- Dubai Mall is described by its official site as the most visited retail and lifestyle destination in the world, welcoming over 100 million visitors yearly.
-- Emaar reports Dubai Mall reached 105 million visits in 2023 and includes more than 1,200 stores.
-- Dubai Mall official pages mention key attractions such as Dubai Aquarium & Underwater Zoo and Dubai Ice Rink.
+## AI Usage
 
-## AI Tools Used
-- ChatGPT: product strategy, content structure, component architecture, README drafting.
-- AI image/video tools can be used next to replace placeholder visuals with custom hero clips, brand activation mockups, and luxury retail renderings.
+AI tools were used to:
 
-## Setup
-```bash
-npm install
-npm run dev
-```
+* generate/select visual concepts
+* accelerate design exploration
+* assist with storytelling structure
+* refine interaction ideas
 
-## Build
-```bash
-npm run build
-```
+## Live Demo
 
-## Suggested Improvements With More Time
-- Replace placeholder background images with official licensed media and AI-generated cinematic clips.
-- Add a real video layer for each chapter.
-- Add venue-specific submodules for aquarium, rink, cinema, atrium activations, and luxury leasing paths.
-- Add Lighthouse image optimization and local compressed assets.
-- Add analytics-style interaction tracking for sales teams.
+https://dubai-mall-sales-deck-jxi2kb7h9-gunikas-projects-eb4f5b97.vercel.app/
+
+## GitHub Repository
+
+https://github.com/gunika1/dubai-mall-sales-deck
